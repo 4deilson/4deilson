@@ -5,7 +5,7 @@
 - 👀 Meus interessão são em tecnologias, games e aplicações
 
 - 🌱 I’m currently learning ...
-- 🌱 Atualmente estou aprendendo Bubble, Desenvilmento de sites com BootStrap 4, C#, Angular, Python
+- 🌱 Atualmente estou aprendendo Bubble, Desenvolvimento de sites com BootStrap 4, C#, Angular, Python
 
 - 💞️ I’m looking to collaborate on notthin
 - 💞️ Por enquanto nao estou vinculado a nenhum projeto da comunidade
